@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<Object>
+		<Restaurant>Vietnam Restaurant</Restaurant>
+		<Address>1615 Commerce Parkway</Address>
+		<City>Bloomington</City>
+		<State>IL</State>
+		<Zipcode>61704</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Chops and Ribs</Restaurant>
+		<Address>71 S. Wacker Drive Chicago</Address>
+		<City>Chicago</City>
+		<State>IL</State>
+		<Zipcode>60606</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Molinarinari</Restaurant>
+		<Address>"1701 River Drive, Suite 306"</Address>
+		<City>Moline</City>
+		<State>IL</State>
+		<Zipcode>61265</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Siam Cusine</Restaurant>
+		<Address>"3201 W White Oaks Drive, Suite 204"</Address>
+		<City>Springfield</City>
+		<State>IL</State>
+		<Zipcode>62704</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Mary's Diner</Restaurant>
+		<Address>"4916 S Technopolis Drive, Building 2"</Address>
+		<City>Sioux Falls</City>
+		<State>SD</State>
+		<Zipcode>57106</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Bistro Bob</Restaurant>
+		<Address>625 32nd Avenue SW</Address>
+		<City>Cedar Rapids</City>
+		<State>IA</State>
+		<Zipcode>52404</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Wiener House</Restaurant>
+		<Address>"400 Locust Street, Suite 420 4th Floor"</Address>
+		<City>Des Moines</City>
+		<State>IA</State>
+		<Zipcode>50309</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Irifune Place</Restaurant>
+		<Address>"Federal Trust Building, 134 South 13th Street, 10th Floor, Suite 1000"</Address>
+		<City>Lincoln</City>
+		<State>NE</State>
+		<Zipcode>68508</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Estradanas</Restaurant>
+		<Address>"1111 N 102nd Court, Suite 231"</Address>
+		<City>Omaha</City>
+		<State>NE</State>
+		<Zipcode>68114</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Fargo</Restaurant>
+		<Address>"3310 Fiectner Drive, Suite 108"</Address>
+		<City>Fargo</City>
+		<State>ND</State>
+		<Zipcode>58103</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Fangs</Restaurant>
+		<Address>650 Third Avenue South</Address>
+		<City>Minneapolis</City>
+		<State>MN</State>
+		<Zipcode>55402</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>China Palace</Restaurant>
+		<Address>3605 Hwy 52 North</Address>
+		<City>Rochester</City>
+		<State>MN</State>
+		<Zipcode>55901</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Big Daddy Barbeque</Restaurant>
+		<Address>"1005 Ikon Drive, Suite G,"</Address>
+		<City>Jefferson City</City>
+		<State>MO</State>
+		<Zipcode>65109</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Wolfs</Restaurant>
+		<Address>"3315 E. Ridgeview Street, Suite 4000"</Address>
+		<City>Springfield</City>
+		<State>MO</State>
+		<Zipcode>65804</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>A Cut Above</Restaurant>
+		<Address>30501 Agoura Road</Address>
+		<City>Agoura Hills</City>
+		<State>CA</State>
+		<Zipcode>91301</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Ranch House</Restaurant>
+		<Address>650 Harry Road</Address>
+		<City>San Jose</City>
+		<State>CA</State>
+		<Zipcode>95120</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Burgers and Fries</Restaurant>
+		<Address>5100 California Avenue</Address>
+		<City>Bakersfield</City>
+		<State>CA</State>
+		<Zipcode>93309</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Hofbrau Deluxe</Restaurant>
+		<Address>600 Anton Blvd</Address>
+		<City>Costa Mesa</City>
+		<State>CA</State>
+		<Zipcode>92626</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Jean's Place</Restaurant>
+		<Address>100 N. Sepulveda Blvd</Address>
+		<City>El Segundo</City>
+		<State>CA</State>
+		<Zipcode>90245</Zipcode>
+	</Object>
+	<Object>
+		<Restaurant>Nattos</Restaurant>
+		<Address>1001 E. Hillsdale Blvd</Address>
+		<City>Foster City</City>
+		<State>CA</State>
+		<Zipcode>94404</Zipcode>
+	</Object>
+</document>
